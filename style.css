@@ -1,0 +1,182 @@
+body {
+  background-color: rgb(236, 237, 234);
+}
+
+#navbar-right-section {
+  font-family: "itc-avant-garde-gothic-pro", sans-serif;
+  font-size: 12px;
+  font-weight: 500;
+}
+
+.btn {
+  font-family: "itc-avant-garde-gothic-pro", sans-serif;
+  font-size: 12px;
+  font-weight: 500;
+  padding: 14px 0px;
+  border: 1px solid black;
+  border-radius: 60px;
+}
+
+.container-fluid {
+  padding-left: 7.2rem;
+}
+
+h1 {
+  font-family: "Roboto Serif", serif;
+  font-size: 70px;
+  font-weight: 100;
+  margin: 0px;
+  padding: 60px 0px 10px 0px;
+}
+
+.btn-2 {
+  font-family: "Nanum Gothic", sans-serif;
+  font-size: 18px;
+  padding: 16px 30px 13px;
+}
+
+.button_section {
+  padding-top: 1rem;
+}
+
+.nav-bar-1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.nav-bar-2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#first {
+  font-family: "Roboto Serif", serif;
+  font-size: 37px;
+  font-weight: 100;
+  margin: 0px;
+}
+
+img {
+  max-width: 100%;
+  margin-top: 1.5rem;
+}
+
+.view_content {
+  font-family: "Roboto Serif", serif;
+  font-size: 30px;
+  font-weight: 500;
+  padding: 90px 0px 120px 0px;
+}
+
+.proc_section {
+  padding: 0px;
+  background-color: black;
+  color: rgb(236, 237, 234);
+  font-family: "Roboto Serif", serif;
+}
+
+.proc_content {
+  padding: 150px 0px 10px 0px;
+  font-size: 50px;
+  padding-bottom: 3rem;
+}
+
+.num {
+  font-size: 65px;
+}
+
+.head {
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.text {
+  text-align: center;
+  padding: 0px 60px;
+  font-size: 16px;
+}
+
+.black_content {
+  margin-bottom: 3rem;
+}
+
+.select-client {
+  padding: 150px 0px 75px 0px;
+}
+
+.client_content {
+  font-size: 70px;
+  font-family: "Roboto Serif", serif;
+  font-weight: 100;
+}
+
+.footer_section {
+  padding-left: 3rem;
+}
+
+.footer_button_1 {
+  padding: 25px 35px 20px 35px;
+  background-color: rgb(206, 65, 0);
+  font-size: 14px;
+}
+
+.text-end {
+  padding-right: 4rem;
+}
+
+.footer_top {
+  padding: 4rem;
+}
+
+.newsletter {
+  font-family: "Roboto Serif", serif;
+}
+
+.news_head {
+  font-size: 2rem;
+  padding-bottom: 10px;
+}
+
+.news_body {
+  font-size: 1rem;
+  width: 60%;
+}
+
+.connect {
+  font-family: "Roboto Serif", serif;
+}
+
+.connect_head {
+  font-size: 2rem;
+  padding-bottom: 10px;
+}
+
+.connect_body {
+  font-size: 1rem;
+}
+
+.link-section {
+  background-color: black;
+}
+
+.mail_button {
+  width: 225px;
+  padding: 18px 11px;
+  color: black;
+  background-color: #ecedea;
+}
+
+.subscribe_button {
+  margin-left: 2rem;
+  width: 225px;
+  padding: 18px 11px;
+  color: black;
+  background-color: #ecedea;
+}
+
+.footer_section-3 {
+  background-color: black;
+  padding: 150px 100px 60px 100px;
+}
